@@ -9,7 +9,7 @@ JSX stand  **JavaScript XML** . It allows you to write HTML element in javsscrip
 - React components written in JSX are **converted into JavaScript** using tools like Babel.
   
 
-<img src="Pasted image 20250716002518.png" width="400">
+<img src="https://ibb.co/7xzbX1p"  width="400">
 
 
 
